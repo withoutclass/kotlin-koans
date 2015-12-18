@@ -20,3 +20,11 @@ fun checkInRange(date: MyDate, first: MyDate, last: MyDate): Boolean {
     todoTask26_()
 //    return date in DateRange(first, last)
 }
+
+fun DateRange.contains(d: MyDate) {
+
+}
+
+class ClosedRange<T> {
+
+}
